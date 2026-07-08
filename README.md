@@ -21,7 +21,6 @@ Kho lưu trữ này tổng hợp 8 bài thực hành của học phần **Thực
 .
 ├── README.md
 ├── docs/
-│   ├── publishing-checklist.md
 │   └── report-structure.md
 ├── labs/
 │   ├── lab01-classification-titanic/
@@ -32,7 +31,6 @@ Kho lưu trữ này tổng hợp 8 bài thực hành của học phần **Thực
 │   ├── lab06-semantic-segmentation/
 │   ├── lab07-vision-transformer/
 │   └── lab08-llm-nlp/
-└── nong-nghiep-dashboard/
 ```
 
 Mỗi thư mục lab có:
@@ -42,8 +40,6 @@ Mỗi thư mục lab có:
 | `README.md` | Tóm tắt chi tiết lab theo cấu trúc GitHub |
 | `assignment.pdf` | Đề bài thực hành gốc |
 | `report.pdf` hoặc `report.docx` | Báo cáo hoàn chỉnh của lab |
-
-Thư mục `nong-nghiep-dashboard/` là project dashboard IoT riêng, không thuộc chuỗi 8 lab AI nhưng vẫn được giữ lại nếu muốn public cùng repo.
 
 ## Công nghệ sử dụng
 
