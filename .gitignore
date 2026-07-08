@@ -1,0 +1,39 @@
+# Local Codex and working folders
+.agents/
+.codex/
+_lab*_work/
+lab6_report_assets/
+lab6_report_render/
+lab6_report_render_word/
+
+# Raw source reports kept at repository root
+/*.pdf
+/*.docx
+/BaoCao_*.docx
+/Report lab1.docx
+/HƯỚNG DẪN VIẾT BÁO CÁO THỰC TẬP AI.docx
+/~$*
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data, model, and training outputs
+data/
+dataset/
+datasets/
+runs/
+weights/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.h5
+*.keras
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
